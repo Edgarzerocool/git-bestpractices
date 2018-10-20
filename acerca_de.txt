@@ -1,0 +1,6 @@
+Nombre: 		Edgar Alonso Gonzalez 
+Edad: 			28
+Nacionalidad: 		mexicano
+Originario de: 		San Pedro, Coahuila
+Estudios:		Ing. en Computación
+Profesión:		Desarrollador web
